@@ -2,7 +2,7 @@ package com.dsSheet;
 
 import java.util.Scanner;
 
-public class Main{
+public class FindTheRepeat{
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
         
